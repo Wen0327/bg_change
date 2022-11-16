@@ -1,0 +1,20 @@
+body {
+
+    font: 'Raleway', sans-serif;
+    color: rgba(0, 0, 0, 0.9);
+    text-align: center;
+    text-transform: uppercase;
+    /* 大小寫*/
+    letter-spacing: 10px;
+    background: linear-gradient(to right, red, yellow);
+}
+
+h3 {
+
+    letter-spacing: 3px;
+    text-transform: lowercase;
+    margin-top: 300px;
+    /* 大小寫*/
+}
+
+.button {}
